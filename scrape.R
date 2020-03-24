@@ -8,31 +8,91 @@ rm(list = ls())
 if(!require(pacman)) install.packages("pacman")
 pacman::p_load(data.table, tidyverse, rvest, stringr)
 
-## Next: Figure out how to ID and grab URLs from reported release
+## Functions
 
-# For right now will do basic scrape for one page
-url <- "http://publichealth.lacounty.gov/phcommon/public/media/mediapubhpdetail.cfm?prid=2272"
-#url <- "http://www.publichealth.lacounty.gov/phcommon/public/media/mediapubhpdetail.cfm?prid=2271"
-
-page <- read_html(url)
-
-# Select chunk containing report date
-release_date <- html_nodes(page, css = "td") %>% html_text
-release_date <- grep(release_date, pattern="March [[:digit:]]{1,2}.*|April [[:digit:]]{1,2}.*", value = T) %>%
-  str_extract(.,pattern = "March.*|April.*") %>% as.Date(., format = "%B %d, %Y")
+## SCRAPABLE
+is_scrapable <- function(page.obj) {
   
-# Select chunk corresponding to reported cases
-cases <- html_nodes(page, css = "ul") %>% html_text
-cases <- grep(cases, pattern = "Hollywood", value = T) %>% trimws
-cases <- str_replace_all(cases, "(?<=\\d)( *?)(?=[A-Z])", "SPLIT") %>% str_split(., "SPLIT") # To match spaces between city elements and make fixed width
-cases <- tstrsplit(unlist(cases), "--", names = c("city", "n_cases")) %>% as.data.table
+  # page is scrapable if contains tabulated list of cases by location. alhambra and we ho present from first
+  # tabulated release so this will be litmus test
+  page_text <- html_nodes(page.obj, css = "ul") %>% html_text()
+  scrapable <- any(grepl("Alhambra.*West Hollywood", page_text))
+  message(sprintf("PAGE SCRAPABLE: %s", scrapable))
+  
+  return(scrapable)
+}
 
-# Clean up data frame
-cases[, city := str_remove(city, "\\\t")]
-cases[, names(cases) := lapply(.SD, trimws, which = "both"), .SDcols = names(cases)]
-cases[, n_cases := as.integer(n_cases)]
-cases[, date_reported := release_date]
+## NEVER SCRAPED
+never_scraped <- function(url, prev.scraped.df){
+  
+  unscraped <- !(url %in% prev.scraped.df$url)
+  message(sprintf("NEVER SCRAPED: %s", unscraped))
+  
+  return(unscraped)
+}
 
-p <- p[order(-n_cases)]
+## Scrape Media releases
+url <- "http://publichealth.lacounty.gov/media/Coronavirus/"
+page <- read_html(url)
+releases <- html_nodes(page, css = "a.purple-link") 
+releases_df <- data.table(text = html_text(releases), links = html_attr(releases, "href"))
 
+# Keep only the media releases that potentially contain covid data: have pattern prid
+releases_df <- releases_df[links %like% "prid"]
 
+## March 16 (prid = 2268) was first release that has cases broken down by location so drop
+## all releases prior to that
+releases_df[, prid := str_extract(links, "(?<=prid=)(\\d{4})") %>% as.numeric]
+releases_df <- releases_df[prid >= 2268]
+
+## Extract release dates from press release title
+releases_df[, date := str_extract(text, "March [[:digit:]]{1,2},.* 2020|April [[:digit:]]{1,2},.* 2020")]
+releases_df[, date := as.Date(date, format = "%B %d, %Y")]
+
+## Loop through and scrape pages
+
+## Load in already scraped data, so we're only scraping new releases
+scraped_df <- fread("ladph_covid_cases_scraped.csv")
+
+scrape_dfs <- data.table()
+
+for (release in 1:nrow(releases_df)){
+  
+  release_row <- releases_df[release,]
+  message(sprintf("Attempting to scrape %s release", release_row$date))
+  
+  page.obj <- read_html(release_row$links)
+  
+  if(is_scrapable(page.obj) & never_scraped(release_row$links, scraped_df)){
+    
+    # Select chunk corresponding to reported cases
+    cases <- html_nodes(page.obj, css = "ul") %>% html_text
+    cases <- grep(cases, pattern = "Hollywood", value = T) %>% trimws
+    cases <- str_replace_all(cases, "(?<=\\d)( *?)(?=[[A-Z],\\-])", "SPLIT") %>% str_split(., "SPLIT") # To match spaces between city elements and make fixed width
+    
+    city_case_splitter <- if (all(grepl("--", unlist(cases)))) "--" else if (all(grepl("\\\t", unlist(cases)))) "\\\t" else "--|\\\t"
+    
+    cases <- tstrsplit(unlist(cases), city_case_splitter, names = c("city", "n_cases")) %>% as.data.table
+    
+    # Clean up data frame
+    cases[, city := str_remove(city, "\\\t")][, city := str_remove(city, "[^[:alpha:][:space:]]")]
+    cases[, n_cases := str_remove(n_cases, "[^[:digit:]]")]
+    cases[, names(cases) := lapply(.SD, trimws, which = "both"), .SDcols = names(cases)]
+    cases[, n_cases := as.integer(n_cases)]
+    cases[, date_reported := release_row$date]
+    cases[, url := release_row$links]
+    
+    scrape_dfs <- rbind(scrape_dfs, cases)
+    
+  } else {
+    
+    message("Moving to next url")
+  }
+}
+
+## ALSO DAILY SCRAPE THE TABLE THAT'S BEEN UPDATED AS A CROSS-REFERENCE/MOVING FORWARD THIS IS EASIER
+live_table_url <- "http://publichealth.lacounty.gov/media/Coronavirus/locations.htm"
+live_table <- read_html(live_table_url)
+
+# Write to file
+write.csv(cases, "ladph_covid_cases_scraped.csv", row.names = F)
