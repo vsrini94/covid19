@@ -52,7 +52,7 @@ releases_df[, date := as.Date(date, format = "%B %d, %Y")]
 ## Loop through and scrape pages
 
 ## Load in already scraped data, so we're only scraping new releases
-scraped_urls <- import_files(list.files("data", pattern = "scraped", full.names = T)) %>% .[, unique(url)]
+scraped_urls <- import_files(list.files("data/releases", pattern = "scraped", full.names = T)) %>% .[, unique(url)]
 
 for (release in 1:nrow(releases_df)){
   
@@ -116,6 +116,6 @@ if(never_scraped(releases_df[prid == 2275, links], scraped_urls)){
   cases[, date_reported := releases_df[prid == 2275, date]]
   cases[, url := release_row[prid == 2275, links]]
   
-  write.csv(cases, sprintf("data/ladph_covid_cases_scraped_%s.csv", str_remove_all(unique(cases$date_reported), "-")), row.names = F)
+  write.csv(cases, sprintf("data/releases/ladph_covid_cases_scraped_%s.csv", str_remove_all(unique(cases$date_reported), "-")), row.names = F)
   
 }

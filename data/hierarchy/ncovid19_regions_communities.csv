@@ -1,0 +1,186 @@
+﻿region_number,region_label,included_communities,population
+1,Canyon Country--(Region:1),"Unincorporated-Agua Dulce;Unincorporated-Bouquet Canyon;Unincorporated-Canyon Country;Unincorporated-Del Sur;Unincorporated-Elizabeth Lake;Unincorporated-Lake Hughes;Unincorporated-Leona Valley;Unincorporated-San Francisquito Canyon/Bouquet
+Canyon;Unincorporated-Saugus;Unincorporated-Saugus/Canyon Country;Unincorporated-Valencia;Unincorporated-West Antelope Valley",25745
+2,Castaic--(Region:2),Unincorporated-Castaic,28325
+3,Santa Clarita--(Region:3),Santa Clarita,219356
+4,Stevenson Ranch--(Region:4),Unincorporated-Newhall;Unincorporated-Stevenson Ranch;Unincorporated-Twin Lakes/Oat Mountain;Unincorporated-Val Verde,25479
+5,Lancaster--(Region:5),Lancaster;Unincorporated-East Lancaster;Unincorporated-Quartz Hill,169552
+6,Palmdale--(Region:6),Palmdale,159689
+7,Lake Los Angeles--(Region:7),Unincorporated-Hi Vista;Unincorporated-Lake Los Angeles;Unincorporated-Littlerock/Pearblossom;Unincorporated-North Lancaster;Unincorporated-Roosevelt;Unincorporated-South Edwards;Unincorporated-Sun Village,25960
+8,Acton--(Region:8),"Unincorporated-Littlerock/Juniper Hills;Unincorporated-Sand Canyon;Unincorporated-Placerita Canyon;Unincorporated-South Antelope Valley;Unincorporated-Southeast Antelope
+Valley;Unincorporated-Palmdale;Unincorporated-Llano;Unincorporated-Ka gel/Lopez Canyons;Unincorporated-Angeles National Forest;Unincorporated-Anaverde;Unincorporated-Desert View Highlands;Unincorporated-Pearblossom/Llano;Unincorporated-White Fence Farms;Unincorporated-Littlerock;Unincorporated-Acton",28809
+9,Burbank--(Region:9),Burbank,104692
+10,Glendale--(Region:10),Glendale,201605
+11,"La Canada
+Flintridge--(Region:11)",La Canada Flintridge;Unincorporated-La Crescenta-Montrose,40253
+12,Pasadena--(Region:12),Pasadena;Unincorporated-East Pasadena;Unincorporated-Northeast San Gabriel;Unincorporated-San Pasqual,174449
+13,Altadena--(Region:13),Sierra Madre;Unincorporated-Altadena,53439
+14,Arcadia--(Region:14),Arcadia,56993
+15,Monrovia--(Region:15),Monrovia;Unincorporated-Bradbury,37614
+16,Duarte--(Region:16),Bradbury;Duarte;Unincorporated-Arcadia;Unincorporated-Duarte;Unincorp orated-Monrovia,39704
+17,Azusa--(Region:17),Azusa;Unincorporated-Azusa,65527
+18,Glendora--(Region:18),Glendora;Unincorporated-Glendora,52890
+19,San Dimas--(Region:19),San Dimas;Unincorporated-East Covina,34330
+20,La Verne--(Region:20),La Verne;Unincorporated-La Verne,35146
+21,Claremont--(Region:21),Claremont;Unincorporated-Claremont;Unincorporated-Padua Hills,36850
+22,Pomona--(Region:22),Pomona;Unincorporated-Pomona,157108
+23,Covina--(Region:23),"Unincorporated-Charter
+Oak;Unincorporated-Covina;Unincorporated-Covina (Charter Oak)",29406
+24,Covina--(Region:24),Covina,49131
+25,West Covina--(Region:25),West Covina,107688
+26,Baldwin Park--(Region:26),Baldwin Park;Irwindale,75833
+27,El Monte--(Region:27),El Monte,113725
+28,Temple City--(Region:28),Temple City,36499
+29,Rosemead--(Region:29),Rosemead,55058
+30,San Gabriel--(Region:30),San Gabriel,40311
+31,South Pasadena--(Region:31),San Marino;South Pasadena,39453
+32,Alhambra--(Region:32),Alhambra,86706
+33,Monterey Park--(Region:33),Monterey Park,61121
+34,East Los Angeles--(Region:34),Unincorporated-East Los Angeles,126985
+35,Montebello--(Region:35),Montebello,63731
+36,South El Monte--(Region:36),South El Monte;Unincorporated-El Monte;Unincorporated-Pellissier Village;Unincorporated-South El Monte;Unincorporated-South San Gabriel;Unincorporated-Whittier Narrows,32030
+37,Bassett--(Region:37),Industry;Unincorporated-Avocado Heights;Unincorporated-Bassett;Unincorporated-North Whittier;Unincorporated-West Puente Valley,39491
+38,La Puente--(Region:38),La Puente,40378
+39,Valinda--(Region:39),Unincorporated-San Jose Hills;Unincorporated-Valinda,43986
+40,Walnut--(Region:40),Unincorporated-Walnut;Walnut,30067
+41,Diamond Bar--(Region:41),Diamond Bar,57127
+42,Rowland Heights--(Region:42),Unincorporated-Rowland Heights,50863
+43,Hacienda Heights--(Region:43),Unincorporated-Hacienda Heights,54634
+44,Pico Rivera--(Region:44),Pico Rivera,64052
+45,Whittier--(Region:45),"La Habra Heights;Unincorporated-La Habra
+Heights;Unincorporated-Sunrise Village;Unincorporated-Whittier;Whittier",99118
+46,La Mirada--(Region:46),La Mirada;Unincorporated-East La Mirada,54602
+47,South Whittier--(Region:47),Unincorporated-East Whittier;Unincorporated-South Whittier,63072
+48,West Whittier/Los Nietos--(Region:48),Santa Fe Springs;Unincorporated-West Whittier/Los Nietos,45219
+49,Norwalk--(Region:49),Norwalk,104868
+50,Downey--(Region:50),Downey,113811
+51,Maywood--(Region:51),Commerce;Maywood;Unincorporated-Bandini Islands;Vernon,41472
+52,Bell--(Region:52),Bell,36596
+53,Huntington Park--(Region:53),Huntington Park,59508
+54,Florence-Firestone--(Region:5 4),Unincorporated-Florence-Firestone;Unincorporated-Walnut Park,81770
+55,South Gate--(Region:55),South Gate,99739
+56,Bell Gardens--(Region:56),Bell Gardens;Cudahy,67342
+57,Lynwood--(Region:57),Lynwood,72189
+58,Paramount--(Region:58),Paramount,56225
+59,Bellflower--(Region:59),Bellflower;Unincorporated-Lynwood,76060
+60,Cerritos--(Region:60),Artesia;Cerritos;Unincorporated-Cerritos,66654
+61,Lakewood--(Region:61),"Hawaiian Gardens;Lakewood;Signal
+Hill;Unincorporated-Lakewood;Unincorporated-Long Beach",106281
+62,Long Beach--(Region:62),Long Beach,483934
+63,Compton--(Region:63),Compton;Unincorporated-East Rancho Dominguez;Unincorporated-Rosewood,118259
+64,Willowbrook--(Region:64),Unincorporated-Athens Village;Unincorporated-Rosewood/East Gardena;Unincorporated-Rosewood/West Rancho Dominguez;Unincorporated-West Rancho Dominguez;Unincorporated-Willowbrook,43095
+65,Carson--(Region:65),Carson;Unincorporated-Rancho Dominguez;Unincorporated-West Carson,118244
+66,Rancho Palos Verdes--(Region:66),Rancho Palos Verdes,42908
+67,Lomita--(Region:67),Lomita;Palos Verdes Estates;Rolling Hills;Rolling Hills Estates;Unincorporated-Palos Verdes Peninsula;Unincorporated-Westfield/Academy Hills,45781
+68,Torrance--(Region:68),Torrance,146686
+69,Redondo Beach--(Region:69),Redondo Beach,69316
+70,Manhattan Beach--(Region:70),Hermosa Beach;Manhattan Beach,54881
+71,El Segundo--(Region:71),El Segundo;Unincorporated-Del Aire;Unincorporated-Wiseburn,26864
+72,Hawthorne--(Region:72),Hawthorne;Unincorporated-Hawthorne;Unincorporated-Lennox,114032
+73,Lawndale--(Region:73),Lawndale;Unincorporated-El Camino Village,42232
+74,Gardena--(Region:74),Gardena,60679
+75,Athens-Westmont--(Region:75),Unincorporated-Athens-Westmont,41642
+76,Inglewood--(Region:76),Inglewood,116359
+77,Culver City--(Region:77),Culver City;Unincorporated-Ladera Heights;Unincorporated-View Park/Windsor Hills,56391
+78,Santa Monica--(Region:78),Santa Monica,93410
+79,Beverly Hills--(Region:79),Beverly Hills,34652
+80,San Pedro--(Region:80),Los Angeles-San Pedro;Unincorporated-La Rambla,79805
+81,Wilmington--(Region:81),Los Angeles-Wilmington,57279
+82,Harbor City--(Region:82),Los Angeles-Harbor City;Los Angeles-Harbor Pines,31263
+83,Harbor Gateway--(Region:83),Los Angeles-Harbor Gateway;Unincorporated-Harbor Gateway,43700
+84,"Century
+Palms/Cove--(Region:84)",Los Angeles-Century Palms/Cove;Los Angeles-Figueroa Park Square,42829
+85,Watts--(Region:85),Los Angeles-Watts,43908
+86,Vermont Vista--(Region:86),Los Angeles-Green Meadows;Los Angeles-Vermont Vista,63401
+87,Florence-Firestone--(Region:8 7),Los Angeles-Florence-Firestone,48852
+88,Vermont Knolls--(Region:88),Los Angeles-Gramercy Place;Los Angeles-Manchester Square;Los Angeles-Vermont Knolls,36831
+89,Harvard Park--(Region:89),Los Angeles-Harvard Park,39646
+90,Hyde Park--(Region:90),Los Angeles-Hyde Park;Los Angeles-View Heights,32712
+91,Westchester--(Region:91),Los Angeles-Westchester,50798
+92,Playa Vista--(Region:92),"Los Angeles-Marina Peninsula;Los Angeles-Playa Del Rey;Los
+Angeles-Playa Vista;Unincorporated-Del Rey;Unincorporated-Marina del Rey",27092
+93,Del Rey--(Region:93),Los Angeles-Del Rey,29258
+94,Venice--(Region:94),Los Angeles-Venice,34136
+95,Mar Vista--(Region:95),Los Angeles-Mar Vista,41891
+96,Palms--(Region:96),Los Angeles-Palms,45160
+97,Century City--(Region:97),Los Angeles-Century City;Los Angeles-Cheviot Hills;Los Angeles-Rancho Park,28076
+98,Beverlywood--(Region:98),Los Angeles-Beverlywood;Los Angeles-Cadillac-Corning;Los Angeles-Regent Square;Los Angeles-Reynier Village,27910
+99,Crestview--(Region:99),Los Angeles-Crestview;Los Angeles-Faircrest Heights;Los Angeles-South Carthay,25678
+100,Park La Brea--(Region:100),Los Angeles-Carthay;Los Angeles-Park La Brea;Unincorporated-Miracle Mile,27005
+101,Miracle Mile--(Region:101),Los Angeles-Brookside;Los Angeles-Mid-city;Los Angeles-Miracle Mile;Los Angeles-Sycamore Square,34069
+102,Cloverdale/Cochran--(Region:1 02),Los Angeles-Cloverdale/Cochran;Los Angeles-Lafayette Square;Los Angeles-Longwood;Los Angeles-St Elmo Village,28768
+103,"Crenshaw
+District--(Region:103)",Los Angeles-Alsace;Los Angeles-Crenshaw District;Los Angeles-Exposition,29977
+104,Baldwin Hills--(Region:104),Los Angeles-Baldwin Hills,29994
+105,Leimert Park--(Region:105),Los Angeles-Jefferson Park;Los Angeles-Leimert Park;Los Angeles-Wellington Square,28318
+106,West Vernon--(Region:106),Los Angeles-Vermont Square;Los Angeles-West Vernon,61940
+107,Exposition Park--(Region:107),Los Angeles-Exposition Park,45190
+108,South Park--(Region:108),Los Angeles-South Park,39093
+109,Vernon Central--(Region:109),Los Angeles-Vernon Central,54121
+110,Central--(Region:110),Los Angeles-Central,39107
+111,"Wholesale
+District--(Region:111)",Los Angeles-Wholesale District,38191
+112,Boyle Heights--(Region:112),Los Angeles-Boyle Heights,87247
+113,Lincoln Heights--(Region:113),Los Angeles-Lincoln Heights,33052
+114,El Sereno--(Region:114),Los Angeles-El Sereno;Los Angeles-University Hills,45030
+115,Highland Park--(Region:115),Los Angeles-Highland Park,48168
+116,Eagle Rock--(Region:116),Los Angeles-Eagle Rock,39175
+117,Glassell Park--(Region:117),Los Angeles-Glassell Park,31385
+118,Mt. Washington--(Region:118),Los Angeles-Elysian Valley;Los Angeles-Mt. Washington,34192
+119,Echo Park--(Region:119),Los Angeles-Angelino Heights;Los Angeles-Chinatown;Los Angeles-Echo Park;Los Angeles-Elysian Park,30710
+120,Downtown--(Region:120),Los Angeles-Downtown;Los Angeles-Little Tokyo,27488
+121,University Park--(Region:121),Los Angeles-Adams-Normandie;Los Angeles-University Park,35410
+122,West Adams--(Region:122),Los Angeles-West Adams,28121
+123,Harvard Heights--(Region:123),Los Angeles-Harvard Heights;Los Angeles-Victoria Park,26967
+124,Pico-Union--(Region:124),Los Angeles-Pico-Union,42603
+125,Westlake--(Region:125),Los Angeles-Westlake,58683
+126,Wilshire Center--(Region:126),Los Angeles-Wilshire Center,51463
+127,"Little
+Bangladesh--(Region:127)",Los Angeles-Little Bangladesh,29070
+128,Koreatown--(Region:128),Los Angeles-Koreatown,52603
+129,Hancock Park--(Region:129),Los Angeles-Country Club Park;Los Angeles-Hancock Park,31829
+130,Melrose--(Region:130),Los Angeles-Melrose,77634
+131,East Hollywood--(Region:131),Los Angeles-East Hollywood,29790
+132,Silverlake--(Region:132),Los Angeles-Silverlake,43188
+133,Temple-Beaudry--(Region:133),Los Angeles-Historic Filipinotown;Los Angeles-Temple-Beaudry,53142
+134,Los Feliz--(Region:134),Los Angeles-Atwater Village;Los Angeles-Little Armenia;Los Angeles-Los Feliz;Los Angeles-Thai Town,53290
+135,Hollywood--(Region:135),Los Angeles-Hollywood,64944
+136,Hollywood Hills--(Region:136),Los Angeles-Hollywood Hills,28875
+137,Studio City--(Region:137),Los Angeles-Studio City;Los Angeles-Toluca Lake;Los Angeles-Toluca Terrace;Los Angeles-Toluca Woods;Unincorporated-Universal City,32881
+138,Valley Glen--(Region:138),Los Angeles-Valley Glen;Los Angeles-Valley Village,53274
+139,North Hollywood--(Region:139),Los Angeles-North Hollywood,151354
+140,Sun Valley--(Region:140),Los Angeles-Sun Valley,55192
+141,Tujunga--(Region:141),Los Angeles-Angeles National Forest;Los Angeles-Tujunga,28196
+142,Sunland--(Region:142),Los Angeles-Lakeview Terrace;Los Angeles-Shadow Hills;Los Angeles-Sunland,38465
+143,Pacoima--(Region:143),Los Angeles-Pacoima,79940
+144,San Fernando--(Region:144),Los Angeles-Mission Hills;San Fernando,48440
+145,Sylmar--(Region:145),Los Angeles-Sylmar,82749
+146,Granada Hills--(Region:146),Los Angeles-Granada Hills,57975
+147,North Hills--(Region:147),Los Angeles-North Hills,60919
+148,Panorama City--(Region:148),Los Angeles-Panorama City,76007
+149,Arleta--(Region:149),Los Angeles-Arleta,35111
+150,Van Nuys--(Region:150),Los Angeles-Van Nuys,92856
+151,Sherman Oaks--(Region:151),Los Angeles-Sherman Oaks,84967
+152,Brentwood--(Region:152),Los Angeles-Bel Air;Los Angeles-Beverly Crest;Los Angeles-Brentwood;Unincorporated-Franklin Canyon,51891
+153,Westwood--(Region:153),Los Angeles-Westwood,54421
+154,"West Los
+Angeles--(Region:154)",Los Angeles-West Los Angeles;Unincorporated-West LA,38159
+155,"Pacific
+Palisades--(Region:155)",Los Angeles-Mandeville Canyon;Los Angeles-Pacific Palisades;Los Angeles-Palisades Highlands,27767
+156,Encino--(Region:156),Los Angeles-Encino,42533
+157,Lake Balboa--(Region:157),Los Angeles-Lake Balboa,41661
+158,Northridge--(Region:158),Los Angeles-Northridge,67755
+159,Porter Ranch--(Region:159),Los Angeles-Porter Ranch,33206
+160,Chatsworth--(Region:160),Los Angeles-Chatsworth,36039
+161,West Hills--(Region:161),Los Angeles-West Hills;Unincorporated-Lake Manor;Unincorporated-West Chatsworth;Unincorporated-Westhills,41543
+162,Canoga Park--(Region:162),Los Angeles-Canoga Park,63694
+163,Winnetka--(Region:163),Los Angeles-Reseda Ranch;Los Angeles-Winnetka,55773
+164,Reseda--(Region:164),Los Angeles-Reseda,75758
+165,Tarzana--(Region:165),Los Angeles-Tarzana,30227
+166,Woodland Hills--(Region:166),Los Angeles-Woodland Hills,64543
+167,Calabasas--(Region:167),Calabasas;Hidden Hills,26051
+168,Agoura Hills--(Region:168),Agoura Hills;Westlake Village,29523
+169,"Santa Monica
+Mountains--(Region:169)",Malibu;Unincorporated-Santa Monica Mountains,31552
+170,Avalon--(Region:170),Avalon;Unincorporated-San Clemente Island;Unincorporated-Santa Catalina Island,4034
+171,West Hollywood--(Region:171),West Hollywood,35798
