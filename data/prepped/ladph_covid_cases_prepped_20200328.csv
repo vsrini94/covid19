@@ -1,0 +1,350 @@
+"location_number","location_label","level","region_number","region_label","date_reported","n_cases"
+512,"Agoura Hills",2,168,"Agoura Hills","2020-03-28",9
+260,"Alhambra",2,32,"Alhambra","2020-03-28",10
+226,"Arcadia",2,14,"Arcadia","2020-03-28",8
+312,"Artesia",2,60,"Cerritos","2020-03-28",-1
+516,"Avalon",2,170,"Avalon","2020-03-28",0
+234,"Azusa",2,17,"Azusa","2020-03-28",1
+252,"Baldwin Park",2,26,"Baldwin Park","2020-03-28",0
+301,"Bell",2,52,"Bell","2020-03-28",5
+306,"Bell Gardens",2,56,"Bell Gardens","2020-03-28",1
+310,"Bellflower",2,59,"Bellflower","2020-03-28",12
+358,"Beverly Hills",2,79,"Beverly Hills","2020-03-28",21
+229,"Bradbury",2,16,"Duarte","2020-03-28",0
+216,"Burbank",2,9,"Burbank","2020-03-28",17
+510,"Calabasas",2,167,"Calabasas","2020-03-28",10
+329,"Carson",2,65,"Carson","2020-03-28",26
+313,"Cerritos",2,60,"Cerritos","2020-03-28",1
+242,"Claremont",2,21,"Claremont","2020-03-28",1
+297,"Commerce",2,51,"Maywood","2020-03-28",0
+321,"Compton",2,63,"Compton","2020-03-28",9
+250,"Covina",2,24,"Covina","2020-03-28",3
+307,"Cudahy",2,56,"Bell Gardens","2020-03-28",-1
+354,"Culver City",2,77,"Culver City","2020-03-28",7
+280,"Diamond Bar",2,41,"Diamond Bar","2020-03-28",2
+296,"Downey",2,50,"Downey","2020-03-28",18
+230,"Duarte",2,16,"Duarte","2020-03-28",-1
+254,"El Monte",2,27,"El Monte","2020-03-28",0
+343,"El Segundo",2,71,"El Segundo","2020-03-28",-1
+351,"Gardena",2,74,"Gardena","2020-03-28",6
+217,"Glendale",2,10,"Glendale","2020-03-28",36
+236,"Glendora",2,18,"Glendora","2020-03-28",4
+315,"Hawaiian Gardens",2,61,"Lakewood","2020-03-28",-1
+346,"Hawthorne",2,72,"Hawthorne","2020-03-28",11
+341,"Hermosa Beach",2,70,"Manhattan Beach","2020-03-28",-1
+511,"Hidden Hills",2,167,"Calabasas","2020-03-28",0
+302,"Huntington Park",2,53,"Huntington Park","2020-03-28",2
+270,"Industry",2,37,"Bassett","2020-03-28",0
+353,"Inglewood",2,76,"Inglewood","2020-03-28",14
+253,"Irwindale",2,26,"Baldwin Park","2020-03-28",0
+218,"La Canada Flintridge",2,11,"La CanadaFlintridge","2020-03-28",7
+284,"La Habra Heights",2,45,"Whittier","2020-03-28",0
+289,"La Mirada",2,46,"La Mirada","2020-03-28",6
+275,"La Puente",2,38,"La Puente","2020-03-28",2
+240,"La Verne",2,20,"La Verne","2020-03-28",1
+316,"Lakewood",2,61,"Lakewood","2020-03-28",11
+190,"Lancaster",2,5,"Lancaster","2020-03-28",19
+349,"Lawndale",2,73,"Lawndale","2020-03-28",3
+333,"Lomita",2,67,"Lomita","2020-03-28",-1
+320,"Long Beach",2,62,"Long Beach","2020-03-28",0
+438,"Los Angeles - Adams-Normandie",2,121,"University Park","2020-03-28",-1
+409,"Los Angeles - Alsace",2,103,"CrenshawDistrict","2020-03-28",-1
+470,"Los Angeles - Angeles National Forest",2,141,"Tujunga","2020-03-28",0
+432,"Los Angeles - Angelino Heights",2,119,"Echo Park","2020-03-28",0
+482,"Los Angeles - Arleta",2,149,"Arleta","2020-03-28",4
+455,"Los Angeles - Atwater Village",2,134,"Los Feliz","2020-03-28",-1
+412,"Los Angeles - Baldwin Hills",2,104,"Baldwin Hills","2020-03-28",7
+485,"Los Angeles - Bel Air",2,152,"Brentwood","2020-03-28",8
+486,"Los Angeles - Beverly Crest",2,152,"Brentwood","2020-03-28",17
+391,"Los Angeles - Beverlywood",2,98,"Beverlywood","2020-03-28",10
+423,"Los Angeles - Boyle Heights",2,112,"Boyle Heights","2020-03-28",8
+487,"Los Angeles - Brentwood",2,152,"Brentwood","2020-03-28",31
+401,"Los Angeles - Brookside",2,101,"Miracle Mile","2020-03-28",0
+392,"Los Angeles - Cadillac-Corning",2,98,"Beverlywood","2020-03-28",0
+504,"Los Angeles - Canoga Park",2,162,"Canoga Park","2020-03-28",3
+398,"Los Angeles - Carthay",2,100,"Park La Brea","2020-03-28",9
+421,"Los Angeles - Central",2,110,"Central","2020-03-28",3
+388,"Los Angeles - Century City",2,97,"Century City","2020-03-28",8
+366,"Los Angeles - Century Palms/Cove",2,84,"CenturyPalms/Cove","2020-03-28",5
+499,"Los Angeles - Chatsworth",2,160,"Chatsworth","2020-03-28",4
+389,"Los Angeles - Cheviot Hills",2,97,"Century City","2020-03-28",-1
+433,"Los Angeles - Chinatown",2,119,"Echo Park","2020-03-28",0
+405,"Los Angeles - Cloverdale/Cochran",2,102,"Cloverdale/Cochran","2020-03-28",-1
+448,"Los Angeles - Country Club Park",2,129,"Hancock Park","2020-03-28",-1
+410,"Los Angeles - Crenshaw District",2,103,"CrenshawDistrict","2020-03-28",-1
+395,"Los Angeles - Crestview",2,99,"Crestview","2020-03-28",9
+384,"Los Angeles - Del Rey",2,93,"Del Rey","2020-03-28",10
+436,"Los Angeles - Downtown",2,120,"Downtown","2020-03-28",9
+428,"Los Angeles - Eagle Rock",2,116,"Eagle Rock","2020-03-28",8
+451,"Los Angeles - East Hollywood",2,131,"East Hollywood","2020-03-28",5
+434,"Los Angeles - Echo Park",2,119,"Echo Park","2020-03-28",-1
+425,"Los Angeles - El Sereno",2,114,"El Sereno","2020-03-28",1
+435,"Los Angeles - Elysian Park",2,119,"Echo Park","2020-03-28",-1
+430,"Los Angeles - Elysian Valley",2,118,"Mt. Washington","2020-03-28",-1
+495,"Los Angeles - Encino",2,156,"Encino","2020-03-28",26
+411,"Los Angeles - Exposition",2,103,"CrenshawDistrict","2020-03-28",0
+418,"Los Angeles - Exposition Park",2,107,"Exposition Park","2020-03-28",4
+396,"Los Angeles - Faircrest Heights",2,99,"Crestview","2020-03-28",0
+367,"Los Angeles - Figueroa Park Square",2,84,"CenturyPalms/Cove","2020-03-28",0
+371,"Los Angeles - Florence-Firestone",2,87,"Florence-Firestone","2020-03-28",6
+429,"Los Angeles - Glassell Park",2,117,"Glassell Park","2020-03-28",7
+372,"Los Angeles - Gramercy Place",2,88,"Vermont Knolls","2020-03-28",-1
+479,"Los Angeles - Granada Hills",2,146,"Granada Hills","2020-03-28",8
+369,"Los Angeles - Green Meadows",2,86,"Vermont Vista","2020-03-28",-1
+449,"Los Angeles - Hancock Park",2,129,"Hancock Park","2020-03-28",17
+362,"Los Angeles - Harbor City",2,82,"Harbor City","2020-03-28",1
+364,"Los Angeles - Harbor Gateway",2,83,"Harbor Gateway","2020-03-28",4
+363,"Los Angeles - Harbor Pines",2,82,"Harbor City","2020-03-28",0
+441,"Los Angeles - Harvard Heights",2,123,"Harvard Heights","2020-03-28",-1
+375,"Los Angeles - Harvard Park",2,89,"Harvard Park","2020-03-28",2
+427,"Los Angeles - Highland Park",2,115,"Highland Park","2020-03-28",6
+453,"Los Angeles - Historic Filipinotown",2,133,"Temple-Beaudry","2020-03-28",0
+459,"Los Angeles - Hollywood",2,135,"Hollywood","2020-03-28",38
+460,"Los Angeles - Hollywood Hills",2,136,"Hollywood Hills","2020-03-28",23
+376,"Los Angeles - Hyde Park",2,90,"Hyde Park","2020-03-28",2
+413,"Los Angeles - Jefferson Park",2,105,"Leimert Park","2020-03-28",0
+447,"Los Angeles - Koreatown",2,128,"Koreatown","2020-03-28",10
+406,"Los Angeles - Lafayette Square",2,102,"Cloverdale/Cochran","2020-03-28",-1
+496,"Los Angeles - Lake Balboa",2,157,"Lake Balboa","2020-03-28",6
+472,"Los Angeles - Lakeview Terrace",2,142,"Sunland","2020-03-28",-1
+414,"Los Angeles - Leimert Park",2,105,"Leimert Park","2020-03-28",-1
+424,"Los Angeles - Lincoln Heights",2,113,"Lincoln Heights","2020-03-28",1
+456,"Los Angeles - Little Armenia",2,134,"Los Feliz","2020-03-28",0
+446,"Los Angeles - Little Bangladesh",2,127,"LittleBangladesh","2020-03-28",2
+437,"Los Angeles - Little Tokyo",2,120,"Downtown","2020-03-28",0
+407,"Los Angeles - Longwood",2,102,"Cloverdale/Cochran","2020-03-28",0
+457,"Los Angeles - Los Feliz",2,134,"Los Feliz","2020-03-28",5
+373,"Los Angeles - Manchester Square",2,88,"Vermont Knolls","2020-03-28",-1
+492,"Los Angeles - Mandeville Canyon",2,155,"PacificPalisades","2020-03-28",-1
+386,"Los Angeles - Mar Vista",2,95,"Mar Vista","2020-03-28",8
+380,"Los Angeles - Marina Peninsula",2,92,"Playa Vista","2020-03-28",-1
+450,"Los Angeles - Melrose",2,130,"Melrose","2020-03-28",56
+402,"Los Angeles - Mid-city",2,101,"Miracle Mile","2020-03-28",8
+403,"Los Angeles - Miracle Mile",2,101,"Miracle Mile","2020-03-28",8
+476,"Los Angeles - Mission Hills",2,144,"San Fernando","2020-03-28",5
+431,"Los Angeles - Mt. Washington",2,118,"Mt. Washington","2020-03-28",-1
+480,"Los Angeles - North Hills",2,147,"North Hills","2020-03-28",2
+468,"Los Angeles - North Hollywood",2,139,"North Hollywood","2020-03-28",26
+497,"Los Angeles - Northridge",2,158,"Northridge","2020-03-28",8
+493,"Los Angeles - Pacific Palisades",2,155,"PacificPalisades","2020-03-28",11
+475,"Los Angeles - Pacoima",2,143,"Pacoima","2020-03-28",3
+494,"Los Angeles - Palisades Highlands",2,155,"PacificPalisades","2020-03-28",0
+387,"Los Angeles - Palms",2,96,"Palms","2020-03-28",15
+481,"Los Angeles - Panorama City",2,148,"Panorama City","2020-03-28",4
+399,"Los Angeles - Park La Brea",2,100,"Park La Brea","2020-03-28",-1
+443,"Los Angeles - Pico-Union",2,124,"Pico-Union","2020-03-28",4
+381,"Los Angeles - Playa Del Rey",2,92,"Playa Vista","2020-03-28",-1
+379,"Los Angeles - Playa Vista",2,92,"Playa Vista","2020-03-28",5
+498,"Los Angeles - Porter Ranch",2,159,"Porter Ranch","2020-03-28",3
+390,"Los Angeles - Rancho Park",2,97,"Century City","2020-03-28",-1
+393,"Los Angeles - Regent Square",2,98,"Beverlywood","2020-03-28",0
+507,"Los Angeles - Reseda",2,164,"Reseda","2020-03-28",11
+505,"Los Angeles - Reseda Ranch",2,163,"Winnetka","2020-03-28",-1
+394,"Los Angeles - Reynier Village",2,98,"Beverlywood","2020-03-28",-1
+359,"Los Angeles - San Pedro",2,80,"San Pedro","2020-03-28",9
+473,"Los Angeles - Shadow Hills",2,142,"Sunland","2020-03-28",-1
+484,"Los Angeles - Sherman Oaks",2,151,"Sherman Oaks","2020-03-28",25
+452,"Los Angeles - Silverlake",2,132,"Silverlake","2020-03-28",14
+397,"Los Angeles - South Carthay",2,99,"Crestview","2020-03-28",5
+419,"Los Angeles - South Park",2,108,"South Park","2020-03-28",4
+408,"Los Angeles - St Elmo Village",2,102,"Cloverdale/Cochran","2020-03-28",0
+461,"Los Angeles - Studio City",2,137,"Studio City","2020-03-28",10
+469,"Los Angeles - Sun Valley",2,140,"Sun Valley","2020-03-28",5
+474,"Los Angeles - Sunland",2,142,"Sunland","2020-03-28",-1
+404,"Los Angeles - Sycamore Square",2,101,"Miracle Mile","2020-03-28",0
+478,"Los Angeles - Sylmar",2,145,"Sylmar","2020-03-28",8
+508,"Los Angeles - Tarzana",2,165,"Tarzana","2020-03-28",19
+454,"Los Angeles - Temple-Beaudry",2,133,"Temple-Beaudry","2020-03-28",5
+458,"Los Angeles - Thai Town",2,134,"Los Feliz","2020-03-28",-1
+462,"Los Angeles - Toluca Lake",2,137,"Studio City","2020-03-28",-1
+463,"Los Angeles - Toluca Terrace",2,137,"Studio City","2020-03-28",0
+464,"Los Angeles - Toluca Woods",2,137,"Studio City","2020-03-28",0
+471,"Los Angeles - Tujunga",2,141,"Tujunga","2020-03-28",2
+426,"Los Angeles - University Hills",2,114,"El Sereno","2020-03-28",0
+439,"Los Angeles - University Park",2,121,"University Park","2020-03-28",5
+466,"Los Angeles - Valley Glen",2,138,"Valley Glen","2020-03-28",3
+467,"Los Angeles - Valley Village",2,138,"Valley Glen","2020-03-28",14
+483,"Los Angeles - Van Nuys",2,150,"Van Nuys","2020-03-28",6
+385,"Los Angeles - Venice",2,94,"Venice","2020-03-28",13
+374,"Los Angeles - Vermont Knolls",2,88,"Vermont Knolls","2020-03-28",-1
+416,"Los Angeles - Vermont Square",2,106,"West Vernon","2020-03-28",-1
+370,"Los Angeles - Vermont Vista",2,86,"Vermont Vista","2020-03-28",3
+420,"Los Angeles - Vernon Central",2,109,"Vernon Central","2020-03-28",3
+442,"Los Angeles - Victoria Park",2,123,"Harvard Heights","2020-03-28",-1
+377,"Los Angeles - View Heights",2,90,"Hyde Park","2020-03-28",0
+368,"Los Angeles - Watts",2,85,"Watts","2020-03-28",1
+415,"Los Angeles - Wellington Square",2,105,"Leimert Park","2020-03-28",0
+440,"Los Angeles - West Adams",2,122,"West Adams","2020-03-28",7
+500,"Los Angeles - West Hills",2,161,"West Hills","2020-03-28",5
+490,"Los Angeles - West Los Angeles",2,154,"West LosAngeles","2020-03-28",13
+417,"Los Angeles - West Vernon",2,106,"West Vernon","2020-03-28",8
+378,"Los Angeles - Westchester",2,91,"Westchester","2020-03-28",12
+444,"Los Angeles - Westlake",2,125,"Westlake","2020-03-28",2
+489,"Los Angeles - Westwood",2,153,"Westwood","2020-03-28",17
+422,"Los Angeles - Wholesale District",2,111,"WholesaleDistrict","2020-03-28",11
+361,"Los Angeles - Wilmington",2,81,"Wilmington","2020-03-28",7
+445,"Los Angeles - Wilshire Center",2,126,"Wilshire Center","2020-03-28",4
+506,"Los Angeles - Winnetka",2,163,"Winnetka","2020-03-28",8
+509,"Los Angeles - Woodland Hills",2,166,"Woodland Hills","2020-03-28",18
+308,"Lynwood",2,57,"Lynwood","2020-03-28",13
+514,"Malibu",2,169,"Santa MonicaMountains","2020-03-28",-1
+342,"Manhattan Beach",2,70,"Manhattan Beach","2020-03-28",23
+298,"Maywood",2,51,"Maywood","2020-03-28",2
+227,"Monrovia",2,15,"Monrovia","2020-03-28",4
+263,"Montebello",2,35,"Montebello","2020-03-28",3
+261,"Monterey Park",2,33,"Monterey Park","2020-03-28",5
+295,"Norwalk",2,49,"Norwalk","2020-03-28",12
+193,"Palmdale",2,6,"Palmdale","2020-03-28",6
+334,"Palos Verdes Estates",2,67,"Lomita","2020-03-28",14
+309,"Paramount",2,58,"Paramount","2020-03-28",5
+220,"Pasadena",2,12,"Pasadena","2020-03-28",0
+283,"Pico Rivera",2,44,"Pico Rivera","2020-03-28",5
+245,"Pomona",2,22,"Pomona","2020-03-28",4
+332,"Rancho Palos Verdes",2,66,"Rancho Palos Verdes","2020-03-28",8
+340,"Redondo Beach",2,69,"Redondo Beach","2020-03-28",24
+335,"Rolling Hills",2,67,"Lomita","2020-03-28",0
+336,"Rolling Hills Estates",2,67,"Lomita","2020-03-28",-1
+256,"Rosemead",2,29,"Rosemead","2020-03-28",1
+238,"San Dimas",2,19,"San Dimas","2020-03-28",2
+477,"San Fernando",2,144,"San Fernando","2020-03-28",0
+257,"San Gabriel",2,30,"San Gabriel","2020-03-28",6
+258,"San Marino",2,31,"South Pasadena","2020-03-28",-1
+185,"Santa Clarita",2,3,"Santa Clarita","2020-03-28",32
+293,"Santa Fe Springs",2,48,"West Whittier/Los Nietos","2020-03-28",0
+357,"Santa Monica",2,78,"Santa Monica","2020-03-28",38
+224,"Sierra Madre",2,13,"Altadena","2020-03-28",0
+317,"Signal Hill",2,61,"Lakewood","2020-03-28",-1
+264,"South El Monte",2,36,"South El Monte","2020-03-28",0
+305,"South Gate",2,55,"South Gate","2020-03-28",11
+259,"South Pasadena",2,31,"South Pasadena","2020-03-28",3
+255,"Temple City",2,28,"Temple City","2020-03-28",1
+339,"Torrance",2,68,"Torrance","2020-03-28",32
+9999,"Under Investigation",2,9999,"Under Investigation","2020-03-28",154
+201,"Unincorporated - Acton",2,8,"Acton","2020-03-28",0
+172,"Unincorporated - Agua Dulce",2,1,"Canyon Country","2020-03-28",0
+225,"Unincorporated - Altadena",2,13,"Altadena","2020-03-28",10
+202,"Unincorporated - Anaverde",2,8,"Acton","2020-03-28",0
+203,"Unincorporated - Angeles National Forest",2,8,"Acton","2020-03-28",0
+232,"Unincorporated - Arcadia",2,16,"Duarte","2020-03-28",0
+324,"Unincorporated - Athens Village",2,64,"Willowbrook","2020-03-28",0
+352,"Unincorporated - Athens-Westmont",2,75,"Athens-Westmont","2020-03-28",7
+271,"Unincorporated - Avocado Heights",2,37,"Bassett","2020-03-28",0
+235,"Unincorporated - Azusa",2,17,"Azusa","2020-03-28",0
+299,"Unincorporated - Bandini Islands",2,51,"Maywood","2020-03-28",NA
+272,"Unincorporated - Bassett",2,37,"Bassett","2020-03-28",0
+173,"Unincorporated - Bouquet Canyon",2,1,"Canyon Country","2020-03-28",0
+228,"Unincorporated - Bradbury",2,15,"Monrovia","2020-03-28",0
+174,"Unincorporated - Canyon Country",2,1,"Canyon Country","2020-03-28",-1
+184,"Unincorporated - Castaic",2,2,"Castaic","2020-03-28",4
+314,"Unincorporated - Cerritos",2,60,"Cerritos","2020-03-28",0
+247,"Unincorporated - CharterOak",2,23,"Covina","2020-03-28",NA
+243,"Unincorporated - Claremont",2,21,"Claremont","2020-03-28",0
+248,"Unincorporated - Covina",2,23,"Covina","2020-03-28",-1
+249,"Unincorporated - Covina (Charter Oak)",2,23,"Covina","2020-03-28",0
+344,"Unincorporated - Del Aire",2,71,"El Segundo","2020-03-28",0
+382,"Unincorporated - Del Rey",2,92,"Playa Vista","2020-03-28",0
+175,"Unincorporated - Del Sur",2,1,"Canyon Country","2020-03-28",0
+204,"Unincorporated - Desert View Highlands",2,8,"Acton","2020-03-28",0
+233,"Unincorporated - Duarte",2,16,"Duarte","2020-03-28",0
+239,"Unincorporated - East Covina",2,19,"San Dimas","2020-03-28",0
+290,"Unincorporated - East La Mirada",2,46,"La Mirada","2020-03-28",0
+191,"Unincorporated - East Lancaster",2,5,"Lancaster","2020-03-28",0
+262,"Unincorporated - East Los Angeles",2,34,"East Los Angeles","2020-03-28",8
+221,"Unincorporated - East Pasadena",2,12,"Pasadena","2020-03-28",0
+322,"Unincorporated - East Rancho Dominguez",2,63,"Compton","2020-03-28",0
+291,"Unincorporated - East Whittier",2,47,"South Whittier","2020-03-28",-1
+350,"Unincorporated - El Camino Village",2,73,"Lawndale","2020-03-28",0
+265,"Unincorporated - El Monte",2,36,"South El Monte","2020-03-28",0
+176,"Unincorporated - Elizabeth Lake",2,1,"Canyon Country","2020-03-28",0
+303,"Unincorporated - Florence-Firestone",2,54,"Florence-Firestone","2020-03-28",0
+488,"Unincorporated - Franklin Canyon",2,152,"Brentwood","2020-03-28",NA
+237,"Unincorporated - Glendora",2,18,"Glendora","2020-03-28",0
+282,"Unincorporated - Hacienda Heights",2,43,"Hacienda Heights","2020-03-28",2
+365,"Unincorporated - Harbor Gateway",2,83,"Harbor Gateway","2020-03-28",NA
+347,"Unincorporated - Hawthorne",2,72,"Hawthorne","2020-03-28",-1
+194,"Unincorporated - Hi Vista",2,7,"Lake Los Angeles","2020-03-28",0
+205,"Unincorporated - Kagel/Lopez Canyons",2,8,"Acton","2020-03-28",0
+219,"Unincorporated - La Crescenta-Montrose",2,11,"La CanadaFlintridge","2020-03-28",0
+285,"Unincorporated - La Habra Heights",2,45,"Whittier","2020-03-28",-1
+360,"Unincorporated - La Rambla",2,80,"San Pedro","2020-03-28",-1
+241,"Unincorporated - La Verne",2,20,"La Verne","2020-03-28",-1
+355,"Unincorporated - Ladera Heights",2,77,"Culver City","2020-03-28",0
+177,"Unincorporated - Lake Hughes",2,1,"Canyon Country","2020-03-28",0
+195,"Unincorporated - Lake Los Angeles",2,7,"Lake Los Angeles","2020-03-28",0
+501,"Unincorporated - Lake Manor",2,161,"West Hills","2020-03-28",0
+318,"Unincorporated - Lakewood",2,61,"Lakewood","2020-03-28",0
+348,"Unincorporated - Lennox",2,72,"Hawthorne","2020-03-28",-1
+178,"Unincorporated - Leona Valley",2,1,"Canyon Country","2020-03-28",0
+206,"Unincorporated - Littlerock",2,8,"Acton","2020-03-28",0
+207,"Unincorporated - Littlerock/Juniper Hills",2,8,"Acton","2020-03-28",0
+196,"Unincorporated - Littlerock/Pearblossom",2,7,"Lake Los Angeles","2020-03-28",0
+208,"Unincorporated - Llano",2,8,"Acton","2020-03-28",0
+319,"Unincorporated - Long Beach",2,61,"Lakewood","2020-03-28",0
+311,"Unincorporated - Lynwood",2,59,"Bellflower","2020-03-28",NA
+383,"Unincorporated - Marina del Rey",2,92,"Playa Vista","2020-03-28",-1
+400,"Unincorporated - Miracle Mile",2,100,"Park La Brea","2020-03-28",NA
+231,"Unincorporated - Monrovia",2,16,"Duarte","2020-03-28",-1
+186,"Unincorporated - Newhall",2,4,"Stevenson Ranch","2020-03-28",0
+197,"Unincorporated - North Lancaster",2,7,"Lake Los Angeles","2020-03-28",0
+273,"Unincorporated - North Whittier",2,37,"Bassett","2020-03-28",0
+222,"Unincorporated - Northeast San Gabriel",2,12,"Pasadena","2020-03-28",0
+244,"Unincorporated - Padua Hills",2,21,"Claremont","2020-03-28",0
+209,"Unincorporated - Palmdale",2,8,"Acton","2020-03-28",0
+337,"Unincorporated - Palos Verdes Peninsula",2,67,"Lomita","2020-03-28",0
+210,"Unincorporated - Pearblossom/Llano",2,8,"Acton","2020-03-28",0
+266,"Unincorporated - Pellissier Village",2,36,"South El Monte","2020-03-28",0
+211,"Unincorporated - Placerita Canyon",2,8,"Acton","2020-03-28",0
+246,"Unincorporated - Pomona",2,22,"Pomona","2020-03-28",0
+192,"Unincorporated - Quartz Hill",2,5,"Lancaster","2020-03-28",0
+330,"Unincorporated - Rancho Dominguez",2,65,"Carson","2020-03-28",0
+198,"Unincorporated - Roosevelt",2,7,"Lake Los Angeles","2020-03-28",0
+323,"Unincorporated - Rosewood",2,63,"Compton","2020-03-28",0
+325,"Unincorporated - Rosewood/East Gardena",2,64,"Willowbrook","2020-03-28",0
+326,"Unincorporated - Rosewood/West Rancho Dominguez",2,64,"Willowbrook","2020-03-28",0
+281,"Unincorporated - Rowland Heights",2,42,"Rowland Heights","2020-03-28",1
+517,"Unincorporated - San Clemente Island",2,170,"Avalon","2020-03-28",NA
+179,"Unincorporated - San Francisquito Canyon/BouquetCanyon",2,1,"Canyon Country","2020-03-28",NA
+276,"Unincorporated - San Jose Hills",2,39,"Valinda","2020-03-28",0
+223,"Unincorporated - San Pasqual",2,12,"Pasadena","2020-03-28",0
+212,"Unincorporated - Sand Canyon",2,8,"Acton","2020-03-28",0
+518,"Unincorporated - Santa Catalina Island",2,170,"Avalon","2020-03-28",0
+515,"Unincorporated - Santa Monica Mountains",2,169,"Santa MonicaMountains","2020-03-28",0
+180,"Unincorporated - Saugus",2,1,"Canyon Country","2020-03-28",0
+181,"Unincorporated - Saugus/Canyon Country",2,1,"Canyon Country","2020-03-28",0
+213,"Unincorporated - South Antelope Valley",2,8,"Acton","2020-03-28",0
+199,"Unincorporated - South Edwards",2,7,"Lake Los Angeles","2020-03-28",NA
+267,"Unincorporated - South El Monte",2,36,"South El Monte","2020-03-28",0
+268,"Unincorporated - South San Gabriel",2,36,"South El Monte","2020-03-28",0
+292,"Unincorporated - South Whittier",2,47,"South Whittier","2020-03-28",5
+214,"Unincorporated - Southeast Antelope Valley",2,8,"Acton","2020-03-28",0
+187,"Unincorporated - Stevenson Ranch",2,4,"Stevenson Ranch","2020-03-28",-1
+200,"Unincorporated - Sun Village",2,7,"Lake Los Angeles","2020-03-28",0
+286,"Unincorporated - Sunrise Village",2,45,"Whittier","2020-03-28",0
+188,"Unincorporated - Twin Lakes/Oat Mountain",2,4,"Stevenson Ranch","2020-03-28",0
+465,"Unincorporated - Universal City",2,137,"Studio City","2020-03-28",NA
+189,"Unincorporated - Val Verde",2,4,"Stevenson Ranch","2020-03-28",0
+182,"Unincorporated - Valencia",2,1,"Canyon Country","2020-03-28",-1
+277,"Unincorporated - Valinda",2,39,"Valinda","2020-03-28",-1
+356,"Unincorporated - View Park/Windsor Hills",2,77,"Culver City","2020-03-28",0
+278,"Unincorporated - Walnut",2,40,"Walnut","2020-03-28",NA
+304,"Unincorporated - Walnut Park",2,54,"Florence-Firestone","2020-03-28",0
+183,"Unincorporated - West Antelope Valley",2,1,"Canyon Country","2020-03-28",0
+331,"Unincorporated - West Carson",2,65,"Carson","2020-03-28",6
+502,"Unincorporated - West Chatsworth",2,161,"West Hills","2020-03-28",NA
+491,"Unincorporated - West LA",2,154,"West LosAngeles","2020-03-28",-1
+274,"Unincorporated - West Puente Valley",2,37,"Bassett","2020-03-28",0
+327,"Unincorporated - West Rancho Dominguez",2,64,"Willowbrook","2020-03-28",0
+294,"Unincorporated - West Whittier/Los Nietos",2,48,"West Whittier/Los Nietos","2020-03-28",0
+338,"Unincorporated - Westfield/Academy Hills",2,67,"Lomita","2020-03-28",0
+503,"Unincorporated - Westhills",2,161,"West Hills","2020-03-28",0
+215,"Unincorporated - White Fence Farms",2,8,"Acton","2020-03-28",0
+287,"Unincorporated - Whittier",2,45,"Whittier","2020-03-28",0
+269,"Unincorporated - Whittier Narrows",2,36,"South El Monte","2020-03-28",NA
+328,"Unincorporated - Willowbrook",2,64,"Willowbrook","2020-03-28",1
+345,"Unincorporated - Wiseburn",2,71,"El Segundo","2020-03-28",-1
+300,"Vernon",2,51,"Maywood","2020-03-28",0
+279,"Walnut",2,40,"Walnut","2020-03-28",2
+251,"West Covina",2,25,"West Covina","2020-03-28",5
+519,"West Hollywood",2,171,"West Hollywood","2020-03-28",50
+513,"Westlake Village",2,168,"Agoura Hills","2020-03-28",0
+288,"Whittier",2,45,"Whittier","2020-03-28",6

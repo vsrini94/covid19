@@ -32,6 +32,7 @@ scraped_table <- data.table(location_label = covid_cities[-c(1:2)],  n_cases = c
 scraped_table[location_label %like% "Azuza", location_label := "Azusa"] # Misspelled on website. This should still run even if fixed
 
 # Clean table
+scraped_table <- scraped_table[location_label != "City of Los Angeles"] # Drop los angeles city because aggregate
 scraped_table <- scraped_table[(grep("COMMUNITY", location_label)+1):grep("Under Investigation", location_label),]
 scraped_table[, location_label := str_remove_all(location_label, "\\*|City of |-  ")]
 scraped_table[, n_cases := str_replace(n_cases, "--", "-1")][, n_cases := as.integer(n_cases)] # --, which represents 1-4 cases in communities of pop < 25k will be coded as -1 whereas true zeroes will be zero, areas not reported but in our hierarchy will be coded as NA
