@@ -109,13 +109,15 @@ df[shp_id == 144,  `:=`(region_id = 24, region_label="Covina")] # Vincent -> Cov
 df[shp_id == 148,  `:=`(region_id = 63, region_label="Compton")] # West Compton -> Compton
 df[shp_id == 154,  `:=`(region_id = 19, region_label="San Dimas")] # West San Dimas -> San Dimas
 df[shp_id == 312,  `:=`(region_id = 115, region_label="Highland Park")] # Arroyo View Estates -> Highland Park
-
+df[shp_id == 307,  `:=`(region_id = 99, region_label="Crestview")] # Little Ethiopia-> Crestview
+df[shp_id == 302,  `:=`(region_id = 80, region_label="San Pedro")] # Terminal Island -> San Pedro
+df[shp_id == 197, `:=`(region_id = 137, region_label="Studio City")] # Universal City -> Studio City
 
 df[region_id==23, region_id := 24] # Unincorporated Covina ->  Covina
 
 ## Regions where I'm going to aggregate shapefiles
 df[, n := sum(!is.na(shp_id)), by=region_id]
-ids <- df[is.na(shp_id) & n >= 1]$region_id %>% unique
+ids <- df[is.na(shp_id) | is.na(location_id) & n >= 1]$region_id %>% unique
 ## Save these somewhere
 export(df[region_id %in% ids, .(region_id, region_label, location_id, location_label)], "data/hierarchy/agg_ids.csv")
 
