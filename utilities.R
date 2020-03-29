@@ -17,11 +17,21 @@ calc_incident_cases <- function(data.df, start.date, end.date){
 
 ## Aggregate cases into covid regions: treat -1s as 2.5 (midpoint of 1-4 range); ignore NAs
 ## Requires data.table and assertable 
-agg_cases <- function(data.df){
+agg_cases <- function(data.df, agg.id.df = NULL, map = F){
   
   data_df <- copy(data.df) # preserves redacted and missing values in original data frame
   data_df[n_cases == -1, n_cases := 2.5][is.na(n_cases), n_cases := 0]
-  data_df <- data_df[, .(n_cases = sum(n_cases)), by = .(region_number, region_label, date_reported)]
+  
+  if(map == T){
+    
+    data_df <- merge(data_df, agg.id.df)
+    
+  } else {
+    
+    data_df <- data_df[, .(n_cases = sum(n_cases)), by = .(region_number, region_label, date_reported)]
+    
+  }
+  
   assert_values(data_df, "n_cases", test = "not_na")
   assert_ids(data_df, id_vars = list(region_number = c(1:171, 9999), date_reported = unique(data.df$date_reported)))
   
