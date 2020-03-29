@@ -1,4 +1,5 @@
 region_id,region_label,location_id,location_label
+14,Arcadia,226,ARCADIA
 16,Duarte,232,ARCADIA
 60,Cerritos,312,ARTESIA
 170,Avalon,516,AVALON
@@ -15,8 +16,10 @@ region_id,region_label,location_id,location_label
 63,Compton,321,COMPTON
 24,Covina,250,COVINA
 24,Covina,248,COVINA
+41,Diamond Bar,280,DIAMOND BAR
 16,Duarte,230,DUARTE
 16,Duarte,233,DUARTE
+27,El Monte,254,EL MONTE
 36,South El Monte,265,EL MONTE
 71,El Segundo,343,EL SEGUNDO
 18,Glendora,236,GLENDORA
@@ -34,21 +37,35 @@ region_id,region_label,location_id,location_label
 5,Lancaster,190,LANCASTER
 67,Lomita,333,LOMITA
 61,Lakewood,319,LONG BEACH
+141,Tujunga,470,ANGELES NATIONAL FOREST
 8,Acton,203,ANGELES NATIONAL FOREST
 152,Brentwood,485,BEL AIR
 152,Brentwood,486,BEVERLY CREST
 152,Brentwood,487,BRENTWOOD
 100,Park La Brea,398,CARTHAY
+99,Crestview,395,CRESTVIEW
 92,Playa Vista,382,DEL REY
+99,Crestview,396,FAIRCREST HEIGHTS
 83,Harbor Gateway,364,HARBOR GATEWAY
 83,Harbor Gateway,365,HARBOR GATEWAY
+115,Highland Park,427,HIGHLAND PARK
 90,Hyde Park,376,HYDE PARK
+155,PacificPalisades,492,MANDEVILLE CANYON
 92,Playa Vista,380,MARINA PENINSULA
 100,Park La Brea,400,MIRACLE MILE
+144,San Fernando,476,MISSION HILLS
+155,PacificPalisades,493,PACIFIC PALISADES
+155,PacificPalisades,494,PALISADES HIGHLANDS
 100,Park La Brea,399,PARK LA BREA
 92,Playa Vista,381,PLAYA DEL REY
 92,Playa Vista,379,PLAYA VISTA
 80,San Pedro,359,SAN PEDRO
+99,Crestview,397,SOUTH CARTHAY
+137,Studio City,461,STUDIO CITY
+137,Studio City,462,TOLUCA LAKE
+137,Studio City,463,TOLUCA TERRACE
+137,Studio City,464,TOLUCA WOODS
+141,Tujunga,471,TUJUNGA
 90,Hyde Park,377,VIEW HEIGHTS
 161,West Hills,500,WEST HILLS
 154,West LosAngeles,490,WEST LOS ANGELES
@@ -56,6 +73,7 @@ region_id,region_label,location_id,location_label
 51,Maywood,298,MAYWOOD
 15,Monrovia,227,MONROVIA
 16,Duarte,231,MONROVIA
+6,Palmdale,193,PALMDALE
 8,Acton,209,PALMDALE
 67,Lomita,334,PALOS VERDES ESTATES
 22,Pomona,245,POMONA
@@ -63,11 +81,15 @@ region_id,region_label,location_id,location_label
 67,Lomita,335,ROLLING HILLS
 67,Lomita,336,ROLLING HILLS ESTATES
 19,San Dimas,238,SAN DIMAS
+144,San Fernando,477,SAN FERNANDO
+144,San Fernando,,SAN FERNANDO
+13,Altadena,224,SIERRA MADRE
 61,Lakewood,317,SIGNAL HILL
 36,South El Monte,264,SOUTH EL MONTE
 36,South El Monte,267,SOUTH EL MONTE
 8,Acton,201,ACTON
 1,Canyon Country,172,AGUA DULCE
+13,Altadena,225,ALTADENA
 8,Acton,202,ANAVERDE
 64,Willowbrook,324,ATHENS VILLAGE
 75,Athens-Westmont,352,ATHENS-WESTMONT
@@ -76,6 +98,8 @@ region_id,region_label,location_id,location_label
 37,Bassett,272,BASSETT
 1,Canyon Country,173,BOUQUET CANYON
 1,Canyon Country,174,CANYON COUNTRY
+2,Castaic,184,CASTAIC
+2,Castaic,184,CASTAIC
 24,Covina,247,CHARTEROAK
 24,Covina,249,COVINA (CHARTER OAK)
 71,El Segundo,344,DEL AIRE
@@ -128,6 +152,8 @@ region_id,region_label,location_id,location_label
 7,Lake Los Angeles,200,SUN VILLAGE
 45,Whittier,286,SUNRISE VILLAGE
 4,Stevenson Ranch,188,TWIN LAKES/OAT MOUNTAIN
+137,Studio City,,UNIVERSAL CITY
+137,Studio City,465,UNIVERSAL CITY
 4,Stevenson Ranch,189,VAL VERDE
 1,Canyon Country,182,VALENCIA
 40,Walnut,279,WALNUT
@@ -147,13 +173,26 @@ region_id,region_label,location_id,location_label
 71,El Segundo,345,WISEBURN
 51,Maywood,300,VERNON
 75,Athens-Westmont,,ATHENS
+13,Azusa,,CITRUS
 63,Compton,,EAST COMPTON
+2,Castaic,,GREEN VALLEY
+2,Castaic,,HASLEY CANYON
+14,Arcadia,,MAYFLOWER VILLAGE
 7,Lake Los Angeles,,NORTHEAST ANTELOPE VALLEY
+27,El Monte,,NORTH EL MONTE
 5,Lancaster,,NORTHWEST ANTELOPE VALLEY
+6,Palmdale,,NORTHWEST PALMDALE
 40,Walnut,,RAMONA
+2,Castaic,,RIDGE ROUTE
+41,Diamond Bar,,SOUTH DIAMOND BAR
+155,Pacific Palisades,,TOPANGA
+141,Tujunga,,TUJUNGA CANYONS
 4,Stevenson Ranch,,UNINCORPORATED SANTA SUSANA MOUNTAINS
 152,Brentwood,,VETERANS ADMINISTRATION
 24,Covina,,VINCENT
 63,Compton,,WEST COMPTON
 75,Athens-Westmont,,WESTMONT
 19,San Dimas,,WEST SAN DIMAS
+115,Highland Park,,ARROYO VIEW ESTATES
+99,Crestview,,LITTLE ETHIOPIA
+80,San Pedro,,TERMINAL ISLAND
